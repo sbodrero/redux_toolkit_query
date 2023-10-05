@@ -9,10 +9,44 @@
       "id": 3
     },
     {
-      "name": "Harold Strosin",
+      "name": "Eric Durgan",
       "id": 4
+    },
+    {
+      "name": "Jerry Casper",
+      "id": 5
+    },
+    {
+      "name": "Carroll Swift DVM",
+      "id": 6
+    },
+    {
+      "name": "Mrs. Jan Jacobson",
+      "id": 7
+    },
+    {
+      "name": "Levi Bogisich PhD",
+      "id": 8
+    },
+    {
+      "name": "Mrs. Deanna Batz",
+      "id": 9
+    },
+    {
+      "name": "Alberto Halvorson",
+      "id": 10
+    },
+    {
+      "name": "Cassandra Kiehn",
+      "id": 11
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    }
+  ],
   "photos": []
 }
