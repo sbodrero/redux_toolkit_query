@@ -31,14 +31,6 @@
     {
       "name": "Mrs. Deanna Batz",
       "id": 9
-    },
-    {
-      "name": "Alberto Halvorson",
-      "id": 10
-    },
-    {
-      "name": "Cassandra Kiehn",
-      "id": 11
     }
   ],
   "albums": [
@@ -46,6 +38,81 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Metal Mouse",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Wooden Table",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Steel Sausages",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Cotton Tuna",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Fantastic Wooden Pants",
+      "id": 15
+    },
+    {
+      "userId": 4,
+      "title": "Handmade Plastic Chicken",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "title": "Luxurious Cotton Table",
+      "id": 17
+    },
+    {
+      "userId": 9,
+      "title": "Intelligent Plastic Bike",
+      "id": 18
+    },
+    {
+      "userId": 9,
+      "title": "Fantastic Metal Fish",
+      "id": 19
+    },
+    {
+      "userId": 9,
+      "title": "Unbranded Metal Chicken",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Steel Cheese",
+      "id": 21
+    },
+    {
+      "userId": 6,
+      "title": "Elegant Frozen Car",
+      "id": 22
+    },
+    {
+      "userId": 6,
+      "title": "Modern Fresh Car",
+      "id": 23
+    },
+    {
+      "userId": 3,
+      "title": "Fantastic Frozen Pants",
+      "id": 24
+    },
+    {
+      "userId": 3,
+      "title": "Generic Rubber Towels",
+      "id": 25
     }
   ],
   "photos": []
